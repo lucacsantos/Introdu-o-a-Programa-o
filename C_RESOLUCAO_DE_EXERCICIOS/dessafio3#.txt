@@ -1,0 +1,19 @@
+ terceira questão : declarei as variaveis, logo em seguida pedi pra o usuario digitar um numero inteiro e impar. depois fiz um IF, que no caso, se o numero  digitado, dividido por 2 de resto diferente de 0, ele vai entrar no meu programa. 
+
+primeiro declarei que o asterisco inicia em 1, o espaco vai ser o nummero menos um dividido por 2. 
+ no for, fiz linha começando em 1, espaço vai ser maior que zero entao incrementa linha ++.
+no segundo for fiz o I que é uma outra incremetação.
+enquanto i menor ou igual a asterisco I ++.
+ printf vai imprimir um espaço.
+
+depois um outro for parecido com o anterior, 
+I menor igual a asterisco 
+printf vai imprimir um asterisco 
+
+depois fiz espaço decrementado, asterisco maior igual 2, e printei uma quebra de linha 
+
+e depois fiz o mesmo pra parte de baixo
+
+so muda que 
+o espaco agora vai ser incrementado e o asterisco vai ser decrementado 2 
+

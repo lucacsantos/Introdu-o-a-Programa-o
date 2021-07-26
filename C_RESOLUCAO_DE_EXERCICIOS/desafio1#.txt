@@ -1,0 +1,7 @@
+primeira questao : declarei tres variaveis, pedi pro usuario digitar um numero, guardei o numero na variavel num. 
+fiz um for para o I comecar com 1, enquanto I menor igual a num, o I vai ser incrementado em um em um.
+segundo for, fiz o mesmo do primeiro mas ele vai ser para linhas, no caso, o J que vai ser outra variavel de incrementacao,que o J comeca com 1, enquanto o J for menor igual a I o J vai ser incrementado. dentro dele pedi para que a variavel mult, que vai multiplicar o i*j vai ser printado na tela. sendo assim, vai imprimir a coluna junto a linha. 
+
+a logica que pensei, foi, vai repetir ate o quadrado do numero digitado. que no caso, cada linha vai ser somada primeiro numero da coluna 
+
+e tem um padrao que multiplica o numero o primeiro e o restante é multiplo do primeiro 

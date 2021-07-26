@@ -1,0 +1,7 @@
+segunda questao: declarei variaveis sendo que duas ja inicializei, como eh padrao da sequencia. pedi pra o usuario digitar um numero, guardei o numero, e fiz que o enesimo que eh o que ele quer saber vai receber num1 + num2. 
+printei o num1 e num 2, que no caso eh 0 e 1 respectivamente, dai fiz um for, que vai ser o i comecando em 0, o i sendo menor que n menos 2 o i vai ser incrementado.
+dentro do for fiz isso ai que esta mostrando, 
+
+enesimo recebe num + num2, o num1 agora vai ser o num2 e o num2 agora vai ser o enesimo.
+
+dai mostrei o enesimo que eh o que se pede na questao.
